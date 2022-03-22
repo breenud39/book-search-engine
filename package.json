@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/breenud39/book-search-engine/issues"
   },
-  "homepage": "https://github.com/breenud39/book-search-engine"
+  "homepage": "https://github.com/breenud39/book-search-engine",
+  "dependencies": {
+    "apollo-server-express": "^2.15.0"
+  }
 }
